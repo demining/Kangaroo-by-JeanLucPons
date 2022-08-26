@@ -187,6 +187,8 @@ HEX:  23d4a09295be678b21a5f1dceae1f634a69c1b41775f680ebf8165266471401b</code></p
 <p>This video was created for the&nbsp;&nbsp;<a href="https://cryptodeep.ru/" target="_blank" rel="noreferrer noopener"><strong>CRYPTO DEEP TECH</strong></a>&nbsp;portal &nbsp;to ensure the financial security of data and cryptography on elliptic curves&nbsp;&nbsp;<code>secp256k1</code>&nbsp;against weak signatures&nbsp;&nbsp;<code>ECDSA</code>&nbsp;in cryptocurrency&nbsp;<code>BITCOIN</code></p>
 <p><a href="https://github.com/demining/CryptoDeepTools/tree/main/06KangarooJeanLucPons" target="_blank" rel="noreferrer noopener"><strong><u>Source</u></strong></a></p>
 <p><strong>Telegram:&nbsp;&nbsp;</strong><a href="https://t.me/cryptodeeptech" target="_blank" rel="noreferrer noopener"><strong>https://t.me/cryptodeeptech</strong></a></p>
+<p><strong>Video:&nbsp;&nbsp;<a href="https://youtu.be/UGUJyxOhBBQ" target="_blank" rel="noreferrer noopener">https://youtu.be/UGUJyxOhBBQ</a></strong></p>
+<p><strong>Source: <a href="https://cryptodeeptech.ru/kangaroo">https://cryptodeeptech.ru/kangaroo</a></strong></p>
 
 
 ---
