@@ -196,5 +196,5 @@ HEX:  23d4a09295be678b21a5f1dceae1f634a69c1b41775f680ebf8165266471401b</code></p
 
 |  | Donation Address |
 | --- | --- |
-| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __BTC__ | 1Lw2gTnMpxRUNBU85Hg4ruTwnpUPKdf3nV |
 | ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
